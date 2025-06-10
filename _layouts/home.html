@@ -3,13 +3,11 @@ layout: default
 ---
 
 <div class="layout--home">
-  {% if site.author_profile and page.author_profile != false %}
-    <div class="sidebar sticky">
-      {% include author-profile.html %}
-    </div>
-  {% endif %}
+  {% unless page.author_profile == false %}
+    {% include sidebar.html %}
+  {% endunless %}
 
   <div class="content">
-    {{ content }}  <!-- Your custom index.md content -->
+    {{ content }}
   </div>
 </div>
