@@ -99,18 +99,17 @@ footer:
       url: "https://instagram.com/"
 
  defaults:
-  # _posts
- # - scope:
+  #- scope:
       #path: ""
-     # type: posts
-   # values:
-   #   layout: single
-   #   author_profile: false
- #     read_time: false
-  #    comments: false
-   #   share: false
-    #  related: false
-     # show_posts: false
+      #type: posts
+    #values:
+      #layout: single
+      #author_profile: false
+      ##read_time: false
+      #comments: false
+      #share: false
+      #related: false
+      #show_posts: false
     _pages
   - scope:
       path: "_pages"
