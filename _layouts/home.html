@@ -1,7 +1,15 @@
-#---
-#layout: default
-#---
+---
+layout: default
+---
 
-#<div class="home">
-#  {{ content }}
-#</div>
+<div class="home">
+  {% if site.author_profile %}
+    <div class="sidebar sticky">
+      {% include author-profile.html %}
+    </div>
+  {% endif %}
+  
+  <div class="archive">
+    {{ content }}  <!-- Your index.md content appears here -->
+  </div>
+</div>
