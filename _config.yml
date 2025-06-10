@@ -102,7 +102,7 @@ footer:
   - scope:
       #path: ""
       type: posts
-    #values:
+    values:
       #layout: single
       #author_profile: false
       ##read_time: false
@@ -110,14 +110,15 @@ footer:
       #share: false
       #related: false
       #show_posts: false
-       hidden:true
+      hidden: true
   
-    - scope:
+  - scope:
         path: "_pages"
         type: pages
-      values:
+    values:
         layout: single
         author_profile: true
+
 
 category_archive:
   type: liquid
