@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Maron Murangiri"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/maron-photo-profile.jpg"
   bio    : "Software Engineer specializing in Java, Python, and Business Central with a passion for AI/ML solutions"
   location: "Nairobi, Kenya"
   links:
