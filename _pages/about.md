@@ -1,8 +1,25 @@
 ---
+title: "About Me"
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Professional Summary
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am an Information Technology enthusiast with a fervent passion for Software development and AI. My goal is to leverage the potential of software development, AI, cloud tech and technology in general to tackle challenges and narrow the divides in tech particularly in business and economic landscape.
+
+## Education & Certifications
+
+- **Rapid Tech Skills** - JKUAT (Feb 2024 - Aug 2024)  
+  Cybersecurity, AI and their role in shaping the modern world
+
+- **Java Backend Program** - Develhope (May 2023 - Nov 2023)  
+  Java, Spring Boot, SQL, RESTful APIs, Agile methodologies
+
+- **Cyber Security Fundamentals** - UNESCO  
+- **Diploma in Cyber Security** - Oxford Home Study
+
+## Currently Learning
+
+- Cyber Shujaa Course (Ongoing)
