@@ -110,7 +110,7 @@ footer:
       #share: false
       #related: false
       #show_posts: false
-      hidden:true
+       hidden:true
   
     - scope:
         path: "_pages"
