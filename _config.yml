@@ -99,9 +99,9 @@ footer:
       url: "https://instagram.com/"
 
   defaults:
-  #- scope:
+  - scope:
       #path: ""
-      #type: posts
+      type: posts
     #values:
       #layout: single
       #author_profile: false
@@ -110,6 +110,7 @@ footer:
       #share: false
       #related: false
       #show_posts: false
+      hidden:true
   
     - scope:
         path: "_pages"
