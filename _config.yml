@@ -64,7 +64,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:murangirimaron@gmail.com"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/murangiri-maron-b88300176/"
     - label: "GitHub"
