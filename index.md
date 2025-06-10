@@ -40,11 +40,12 @@ Tech is more than a profession—it's my passion. I'm constantly exploring the i
 
 Curious about what I’ve built, where I’ve been, and what I can bring to the table?
 
-<div class="btn-group">
-  <a href="/projects" class="btn btn--primary">Explore My Projects</a>  
-  <a href="/about" class="btn btn--success">My Professional Journey</a>  
-  <a href="#" class="btn btn--info">Download Full CV</a> <!-- Replace # with your CV link -->
-</div>
+[🛠 Explore My Projects](/projects){: .btn .btn--primary}
+
+[📌 My Professional Journey](/about){: .btn .btn--success}
+
+[📄 Download Full CV](#){: .btn .btn--info}  
+<!-- Replace # with your actual CV file path -->
 
 ---
 
