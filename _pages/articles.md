@@ -9,7 +9,7 @@ author_profile: true
 
 ### [Securing Organizational Resilience: Tackling Cybersecurity Challenges](http://surl.li/bcrrpr)
 **Published**: June 18, 2024  
-**Author**: Maron Murangiri (Software Engineer & Cybersecurity Enthusiast)  
+**Author**: Maron Murangiri (Software Engineer, Business Central consultant & Cybersecurity Enthusiast)  
 
 #### Key Insights:
  **Human Factor**: 85% of breaches involve human error (Verizon 2021 Report)  
