@@ -16,6 +16,9 @@ With hands-on experience across **backend systems**, **web development**, and **
 
 Tech is more than a profession—it's my passion. I'm constantly exploring the intersection between software engineering and emerging fields like **machine learning**, **ethical hacking**, and **cloud security**. My goal? To build secure, intelligent systems that solve real-world problems.
 
+[View My Projects](/projects){: .btn .btn--primary}
+[Download My CV](#){: .btn .btn--info} <!-- Add your CV file link here -->
+
 ### 🔭 Current Focus
   Advancing my cybersecurity skills through the **Cyber Shujaa** program  
     - 💼 Consulting on **Business Central** solutions for growing businesses  
