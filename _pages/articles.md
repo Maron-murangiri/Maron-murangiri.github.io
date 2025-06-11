@@ -12,11 +12,11 @@ author_profile: true
 **Author**: Maron Murangiri (Software Engineer & Cybersecurity Enthusiast)  
 
 #### Key Insights:
-🔒 **Human Factor**: 85% of breaches involve human error (Verizon 2021 Report)  
-🛡️ **System Hardening**: Reducing attack surfaces through least-privilege access and tamper-proof logging  
-📜 **Policy Framework**: Essential guidelines for BYOD, data protection, and disaster recovery  
-⚡ **Incident Response**: Importance of CSIRT teams and risk assessment matrices  
-🌐 **Security Standards**: Leveraging ISO 27001, NIST, and OWASP frameworks  
+ **Human Factor**: 85% of breaches involve human error (Verizon 2021 Report)  
+ **System Hardening**: Reducing attack surfaces through least-privilege access and tamper-proof logging  
+ **Policy Framework**: Essential guidelines for BYOD, data protection, and disaster recovery  
+ **Incident Response**: Importance of CSIRT teams and risk assessment matrices  
+ **Security Standards**: Leveraging ISO 27001, NIST, and OWASP frameworks  
 
 #### Critical Questions Addressed:
 1. Are employees trained to recognize social engineering attacks?  
