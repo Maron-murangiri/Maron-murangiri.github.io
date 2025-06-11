@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer | Java/Python Developer | AI & Cybersecurity Enthusiast | Transforming business challenges through technology solutions
 twitter_username: username
 github_username: maronmurangiri
-minimal_mistakes_skin: default # or "default" if you prefer light mode
+minimal_mistakes_skin: sunrise # or "default" if you prefer light mode
 search: true
 
 # Build settings
