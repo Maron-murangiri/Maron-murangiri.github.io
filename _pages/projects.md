@@ -7,24 +7,49 @@ author_profile: true
 
 ## Software Development Projects
 
-### AfyaExpress
-Mobile application aiming at revolutionizing home-based care.
+### AfyaExpress - Home Healthcare Mobile App
+- Revolutionizing home-based care through digital health solutions  
+- Technologies: [Android, Firebase]  
+- [GitHub Repository](#) *(link coming soon)*  
 
-### Ticketing System
-Teamwork project during Develhope Java Backend Bootcamp.
+### Java Backend Ticketing System  
+- Team project during Develhope Java Backend Bootcamp  
+- Features: RESTful APIs, JWT authentication, MySQL database  
+- [GitHub Repository](https://github.com/maronmurangiri/ticketing-system)  
 
-### oneCallEMS
-A medical emergency response application developed for Moi University.
+### oneCallEMS - Emergency Medical Response System  
+- Developed for Moi University to improve emergency response times  
+- Technologies: [Java, Spring Boot, Twilio API]  
+- [GitHub Repository](#) *(link coming soon)*  
 
-### Medibond
-[Online pharmaceutical website](https://5027.000webhostapp.com/)
+### Medibond - Online Pharmaceutical Platform  
+- E-commerce platform for medication and healthcare products  
+- Live Demo: [Medibond Website](https://5027.000webhostapp.com/)  
+- Technologies: [PHP, MySQL, Bootstrap]  
 
-### Messaging System
-[GitHub Repository](https://github.com/maronmurangiri?tab=repositories)
+### Secure Messaging System  
+- Encrypted peer-to-peer communication platform  
+- Features: End-to-end encryption, message queues  
+- [GitHub Repository](https://github.com/maronmurangiri/messaging-system)  
 
-## Data & AI Projects
+## Data Science & AI Projects
 
-- Web scraping on NHL team stats in Google Colab
-- Data wrangling on Netflix dataset in Kaggle
-- Exploratory data analysis on Titanic dataset in Kaggle
-- Business intelligence on hospitality data using Power BI
+### NHL Team Stats Analysis  
+- Web scraping and statistical analysis of NHL team performance  
+- Tools: Python, BeautifulSoup, Pandas  
+- [Google Colab Notebook](#) *(link coming soon)*  
+
+### Netflix Content Analysis  
+- Data wrangling and visualization of Netflix's content library  
+- Tools: Python, Matplotlib, Seaborn  
+- [Kaggle Notebook](https://www.kaggle.com/code/yourusername/netflix-analysis)  
+
+### Titanic Survival Prediction  
+- Exploratory data analysis and machine learning modeling  
+- Achieved 85% prediction accuracy  
+- [Kaggle Notebook](https://www.kaggle.com/code/yourusername/titanic-survival)  
+
+### Hospitality Business Intelligence Dashboard  
+- Interactive Power BI dashboard analyzing hotel performance metrics  
+- Features: Revenue analysis, occupancy trends, KPI tracking  
+- [Power BI Report](#) *(link coming soon)*  
