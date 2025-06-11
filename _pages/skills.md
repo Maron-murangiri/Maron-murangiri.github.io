@@ -8,44 +8,47 @@ author_profile: true
 ## Technical Skills
 
 ### Programming Languages
-- Java, Python
+- **Java**: Spring Boot applications, REST APIs  
+- **Python**: Data analysis, AI/ML scripts  
+- **Dart**: Flutter mobile development  
+- **AL**: Microsoft Dynamics 365 extensions  
 
-### Frameworks
-- Spring Boot, Spring Cloud, Flutter
+### Frameworks & Platforms
+- **Spring Boot**: Enterprise Java applications  
+- **Flutter**: Cross-platform mobile development  
+- **Microsoft Dynamics 365**: Business Central functional consulting  
 
-### Database
-- PostgreSQL, MySQL
-- Database design and administration
+### Database Management
+- **SQL Databases**: PostgreSQL, MySQL  
+- **Database Design**: Normalization, optimization  
+- **Administration**: User management, backup/recovery  
 
-### DevOps & Others
-- Docker (Containerization)
-- Git (Version Control)
-- RESTful API Development
-- Microsoft Dynamics Business Central (Basic Knowledge)
+### Software Development
+- RESTful API design and implementation  
+- Version control with Git/GitHub  
+- Agile development methodologies  
 
-### Cybersecurity
-- IT security technical controls
-- IT security policies
-- Vulnerability assessment
-- Disaster recovery (Entry level)
-- Incident response and risk management (Entry level)
+### Data Science & AI
+- Data analysis with Pandas/NumPy  
+- Basic machine learning algorithms  
+- Data visualization (Power BI, Matplotlib)  
+- ETL pipeline fundamentals  
 
-### Data & AI
-- AI and ML algorithms
-- Basic ETL knowledge
-- Data analysis and visualization
+### Networking Fundamentals
+- OSI and TCP/IP models  
+- Basic network troubleshooting  
 
-### Networking
-- OSI, TCP/IP model
+## Professional Skills
 
-## Soft Skills
-- Adaptability
-- Teamwork and collaboration
-- Problem solving
-- Critical thinking
-- Communication
-- Attention to details
-- Time management
-- Agility
-- Customer service
-- Integrity and Professionalism
+### Business Solutions
+- ERP system configuration  
+- Business process analysis  
+- Requirements gathering  
+
+### Soft Skills
+- **Problem Solving**: Analytical troubleshooting  
+- **Communication**: Technical documentation, client interactions  
+- **Team Collaboration**: Agile team environments  
+- **Time Management**: Project deadline adherence  
+- **Attention to Detail**: Quality-focused development  
+- **Adaptability**: Learning new technologies quickly  
