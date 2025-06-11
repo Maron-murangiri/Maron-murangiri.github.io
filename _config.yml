@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Maron Murangiri"
   avatar : "/assets/images/maron-photo-profile.jpg"
-  avatar_size: 400
+  avatar_size: 800
   avatar_classes: "rounded"
   avatar_classes: "rounded" # Choose: "circle" (default), "rounded", or "square"
   avatar_width: 150 # Width in pixels
