@@ -18,6 +18,6 @@ Tech is more than a profession—it's my passion. I'm constantly exploring the i
 
 [View My Projects](/projects){: .btn .btn--primary}
 [Download My CV (PDF)](/assets/images/Maron_Murangiri_CV.pdf){: .btn .btn--primary .btn--small target="_blank"}  
-*Updated: June 2024*
+
 
 
