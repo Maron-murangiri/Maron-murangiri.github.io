@@ -5,21 +5,34 @@ layout: single
 author_profile: true
 ---
 
-## Professional Summary
+## Professional Summary  
 
-I am an Information Technology enthusiast with a fervent passion for Software development and AI. My goal is to leverage the potential of software development, AI, cloud tech and technology in general to tackle challenges and narrow the divides in tech particularly in business and economic landscape.
+IT professional with expertise in **software development, AI, and cybersecurity**. Passionate about leveraging technology to solve business challenges, with a strong foundation in backend systems, ERP solutions, and secure software practices.  
 
-## Education & Certifications
+---  
 
-- **Rapid Tech Skills** - JKUAT (Feb 2024 - Aug 2024)  
-  Cybersecurity, AI and their role in shaping the modern world
+## Education  
 
-- **Java Backend Program** - Develhope (May 2023 - Nov 2023)  
-  Java, Spring Boot, SQL, RESTful APIs, Agile methodologies
+- **Bachelor of Science in Informatics** - Moi University *(Year–Year)*  
 
-- **Cyber Security Fundamentals** - UNESCO  
-- **Diploma in Cyber Security** - Oxford Home Study
+---  
 
-## Currently Learning
+## Professional Certifications & Training  
 
-- Cyber Shujaa Course (Ongoing)
+- **MB-800: Microsoft Dynamics 365 Business Central Functional Consultant**  
+- **Java Backend Development** - Develhope (May–Nov 2023)  
+  *(Spring Boot, RESTful APIs, SQL, Agile methodologies)*  
+- **Rapid Tech Skills Program** - JKUAT (Feb 2024–Aug 2024)  
+  *(Cybersecurity, AI applications)*  
+- **Diploma in Cyber Security** - Oxford Home Study  
+- **UNESCO Cyber Security Fundamentals**  
+- **Cyber Shujaa Program** *(Ongoing)*  
+
+---  
+
+## Currently Learning  
+
+- Advanced **AI/ML integration** for enterprise systems.  
+- **ERP customization** (Microsoft Dynamics 365).  
+
+Let’s collaborate on tech-driven solutions!  
