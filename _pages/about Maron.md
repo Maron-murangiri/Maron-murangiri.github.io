@@ -10,7 +10,7 @@ author_profile: true
 Maron Murangiri  
 *Software Engineer | Data/ML Specialist | ERP Solutions Developer*
 
-With expertise spanning **enterprise software development, cybersecurity frameworks, and Microsoft Dynamics 365 implementations**, I specialize in creating secure, scalable technical solutions that address critical business challenges. My approach combines rigorous technical standards with practical business acumen.
+With expertise spanning **enterprise software development, Data/AL , and Microsoft Dynamics 365 implementations**, I specialize in creating secure, data-driven scalable technical solutions that address critical business challenges. My approach combines rigorous technical standards with practical business acumen.
 
 ---
 
