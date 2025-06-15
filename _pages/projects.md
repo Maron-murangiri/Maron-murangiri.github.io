@@ -35,6 +35,12 @@ author_profile: true
 
 ## Data Science & AI Projects
 
+### Human Resource Dashboard  
+- Interactive Tableau dashboard for HR analytics, providing high-level workforce insights and detailed employee records  
+- Features: Dynamic filters, KPI tracking, visualizations (bar charts, heatmaps, scatter plots, maps), and export capabilities  
+- Tools: Tableau, Python, Pandas  
+- [Tableau Public Dashboard](https://public.tableau.com/app/profile/maron.murangiri/viz/HumanResourceDashboard_17500194153240/HRSummary)
+  
 ### NHL Team Stats Analysis  
 - Web scraping and statistical analysis of NHL team performance  
 - Tools: Python, BeautifulSoup, Pandas  
